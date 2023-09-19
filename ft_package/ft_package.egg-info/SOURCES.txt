@@ -1,0 +1,10 @@
+LICENSE
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+ft_package/ft_package.egg-info/PKG-INFO
+ft_package/ft_package.egg-info/SOURCES.txt
+ft_package/ft_package.egg-info/dependency_links.txt
+ft_package/ft_package.egg-info/top_level.txt

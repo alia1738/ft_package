@@ -2,6 +2,11 @@
 
 The `ft_package` is a simple testing example to understand the basics of developing a Python package.
 
+## Installing the package
+Before installing the package make sure you have `pip` installed
+Then run `pip install ./dist/ft_package-0.0.1.tar.gz`
+or `pip install ./dist/ft_package-0.0.1-py3-none-any.whl`
+
 ## Example for Package Usage
 
 ```
