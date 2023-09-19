@@ -1,4 +1,4 @@
-# `ft_package`
+# ft_package
 
 The `ft_package` is a simple testing example to understand the basics of developing a Python package.
 
